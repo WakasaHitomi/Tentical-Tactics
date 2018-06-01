@@ -1,6 +1,6 @@
-# Tentical-Tactics
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-              Controls
+# Tentical Tactics
+
+## Controls
            ~~~~~~~~~~~~~~
            -  Shoot = Sapce
            -  Move = Arrow Keys(Left and Right)
